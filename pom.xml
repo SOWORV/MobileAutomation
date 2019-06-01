@@ -11,6 +11,8 @@
     <modules>
         <module>Generic</module>
         <module>TDbank</module>
+
+        <module>Instagram</module>
     </modules>
 
     <dependencyManagement>
